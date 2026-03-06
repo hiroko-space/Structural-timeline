@@ -35,9 +35,9 @@
 
 ---
 
-## ファイル
+## 資料を見る
 
-- `structural-timeline-final.html` — モデルの説明資料（ブラウザで開いて使用）
+👉 [構造型タイムラインモデルを開く](https://hiroko-space.github.io/Structural-timeline/structural-timeline-final.html)
 
 ---
 
